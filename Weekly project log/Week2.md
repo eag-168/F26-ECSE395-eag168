@@ -1,0 +1,3 @@
+- 8/31 Edited the draft of the stakeholder email to add our availability, and resubmitted
+- 8/31 Joseph sent the new version to Mr. Fong
+- 8/31 Edited the team contract template and assigned roles, we all signed and I submitted the contract
