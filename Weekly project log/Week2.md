@@ -2,3 +2,5 @@
 - 8/31 Joseph sent the new version to Mr. Fong
 - 8/31 Edited the team contract template and assigned roles, we all signed and I submitted the contract
 - 9/1 Set the meeting with Mr. Fong as 9/3 at 6:00 pm
+- 9/3 Met with Mr. Fong, and established more of what he wants for our project. He showed us the bird feeder we are adding our project to, how feed is added, how it hangs, and explained the significance of the feeder to him and his family.
+- 9/4 Did Lab 2, used Visual Studio Code and PlatformIO IDE to make an LED on the ESP32 blink
