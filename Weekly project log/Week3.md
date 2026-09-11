@@ -1,10 +1,11 @@
 
 - 9/9 Used our individual meeting notes to create a Figma board, where each sticky was either something about Don, specifications of the project, general design attributes, the problem that we were trying to solve, etc.
 - 9/9 I took our Figma board and clustered it into Who Don is, What is causing the problem, what the birdfeeder looks like, and what he wants from our project
-- 9/9 Joseph, Ayan, and Daniel all then used the clustering and meeting minutes to write the project background, the needs statement, build the personas, and write the key insights, and then I went through and edited, before the whole team reviewed and submitted
+- 9/9 Joseph, Ayan, and Daniel all then used the clustering and meeting minutes to write the project background, the needs statement, build the personas, and write the key insights, and then I went through and edited, before the whole team reviewed and I submitted
 -  9/11 Met before lab
 	- more effectively defined what our roles are on the team to ensure everyone is on the same page
 	- Moving to google docs be our primary document editor from microsoft word
 	- Established that we all have our ThinkBox credits available
 		- Daniel will be managing those, as well as anything else we need to source from Sears Lab staff
 	- Discussed what we all got from our stakeholder meeting and potential solutions
+- 9/11 Performed the weeks lab, edited the skeleton code for the potentiometer sensor to first find readings, and then convert them to voltages. I then created a touch.cpp file to read a touch sensor, then turn on an LED and print to the serial monitor.
