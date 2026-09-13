@@ -1,4 +1,5 @@
 
+- 9/9 Watched a guest lecture in class from NIST about the importance of standards in engineering, which made me realize how important organizations like IEEE are to ensure that very complicated communication systems from around the world can all work together
 - 9/9 Used our individual meeting notes to create a Figma board, where each sticky was either something about Don, specifications of the project, general design attributes, the problem that we were trying to solve, etc.
 - 9/9 I took our Figma board and clustered it into Who Don is, What is causing the problem, what the birdfeeder looks like, and what he wants from our project
 - 9/9 Joseph, Ayan, and Daniel all then used the clustering and meeting minutes to write the project background, the needs statement, build the personas, and write the key insights, and then I went through and edited, before the whole team reviewed and I submitted
