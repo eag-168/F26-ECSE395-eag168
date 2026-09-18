@@ -1,0 +1,6 @@
+- 9/14 Received an extension for our functional and technical specifications as Ayan was ill.
+- 9/15 Completed the bulk of the FS/TS, with each of us writing either 2 functional and 3 technical or 3 functional and 2 technical, as well as the corresponding entries in the table and the rationale and verification for the technical standards. I did FS.09 and FS.10, and TS.10, TS.11, and TS.12 and their corresponding parts.
+- 9/15 Began work on the needfinding presentation, although the rest of the work on it was done on wednesday.
+- 9/16 Finished the presentation and presented to the class. Overall went well, although Joe went over time a bit pushing us past our 2 minute limit, but every group seemed to go over.
+- 9/16 Submitted the Functional and Technical specification documents after the last pieces were finished up and I gave it a look through and edit.
+- 9/16 Resubmitted the Project Background and Need Statement document with a screenshot of our Figma board.
