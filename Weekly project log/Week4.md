@@ -4,3 +4,5 @@
 - 9/16 Finished the presentation and presented to the class. Overall went well, although Joe went over time a bit pushing us past our 2 minute limit, but every group seemed to go over.
 - 9/16 Submitted the Functional and Technical specification documents after the last pieces were finished up and I gave it a look through and edit.
 - 9/16 Resubmitted the Project Background and Need Statement document with a screenshot of our Figma board.
+- 9/18 We met as a team and drafted an email to Mr. Fong to set up a meeting so we can present some of our concepts for him to choose from
+- 9/18 Completed Lab 4, focusing on controlling motors and servos

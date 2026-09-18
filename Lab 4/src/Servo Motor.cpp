@@ -1,21 +1,21 @@
-#include <ESP32Servo.h>
+/* #include <ESP32Servo.h>
 // Don't forget to include the library!!
 // From PlatfromIO library, search for ESP32 servo and add it to the project
 
 // Define the servo and the pin it is connected to, what is your servo pin?
 Servo myServo;
-const int servoPin = 0;
+const int servoPin = A0;
 
 // Define the minimum and maximum pulse widths for the servo
-const int minPulseWidth = 500; // 0.5 ms
-const int maxPulseWidth = 2500; // 2.5 ms
+const int minPulseWidth = 2000; // 0.5 ms
+const int maxPulseWidth = 5000; // 2.5 ms
 
 void setup() {
   // Attach the servo to the specified pin and set its pulse width range
   myServo.attach(servoPin, minPulseWidth, maxPulseWidth);
 
   // Set the PWM frequency for the servo
-  myServo.setPeriodHertz(50); // Standard 50Hz servo
+  myServo.setPeriodHertz(500); // Standard 50Hz servo
 }
 
 void loop() {
@@ -26,7 +26,7 @@ void loop() {
     // map(angle, min angle, max angle, min pulse width, max pulse width)
     pulseWidth = map(angle, 0, 180, minPulseWidth, maxPulseWidth);
     myServo.writeMicroseconds(pulseWidth);
-    delay(15);
+    delay(50);
   }
 
   // Rotate the servo from 180 to 0 degrees
@@ -36,6 +36,6 @@ void loop() {
     // map(angle, min angle, max angle, min pulse width, max pulse width)
     pulseWidth = map(angle, 0, 180, minPulseWidth, maxPulseWidth);
     myServo.writeMicroseconds(pulseWidth);
-    delay(15);
+    delay(50);
   }
-}
+} */
