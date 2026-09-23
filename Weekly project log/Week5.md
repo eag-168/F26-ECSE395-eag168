@@ -1,0 +1,2 @@
+- 9/21 I created the brainstorming document
+- 9/21 We all came up with 10 different ideas, then together took three of those ideas and refined them into our final concepts to present to Mr. Fong, and I submitted the document
