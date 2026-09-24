@@ -1,2 +1,7 @@
 - 9/21 I created the brainstorming document
 - 9/21 We all came up with 10 different ideas, then together took three of those ideas and refined them into our final concepts to present to Mr. Fong, and I submitted the document
+- 9/23 We met with Mr. Fong to present our concepts
+	- Mr. Fong likes the enclosure concept as long as it doesn't cover too much of the bird feeder
+		- He was slightly concerned about the fact that we wouldn't be using any electronics in the solution
+	- Mr. Fong liked the swat arm idea and now it doesn't add a cage surrounding the feeder
+	- Mr. Fong liked the camera idea seemingly the most, especially because of how unobtrusive it is
