@@ -8,3 +8,4 @@ This repository is all of the weekly project logs and the purpose of this reposi
 | Week 2 | Met with our stakeholder, performed Lab 2                                                     |
 | Week 3 | Wrote our project background, needs statement, and created our affinity clusters              |
 | Week 4 | Wrote our functional and technical specifications, presented our needfinding, completed lab 4 |
+| Week 5 | Brainstormed ideas to solve our problem, then presented our top three concepts to Mr. Fong    |

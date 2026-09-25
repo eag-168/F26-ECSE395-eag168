@@ -1,4 +1,4 @@
-#include <ESP32Servo.h>
+/* #include <ESP32Servo.h>
 // Don't forget to include the library!!
 // From PlatfromIO library, search for ESP32 servo and add it to the project
 
@@ -36,4 +36,4 @@ void loop() {
 
     //EAG168 delay for 5 seconds
     delay(2000); 
-}
+} */
