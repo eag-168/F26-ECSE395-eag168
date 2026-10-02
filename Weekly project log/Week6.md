@@ -1,2 +1,4 @@
 - 9/28 I made the concept selection and gantt chart document
 - 9/28 We each added the components of the document, Joe doing slides, Ayan doing Mr. Fong's feedback, I did our final concept selection and description, and Daniel did the Gantt chart.
+- 10/2 Met in the morning to begin discussing our prototype and breaking up the next assignment, and talking about how the first iteration will look
+- 10/2 Attended lab time to keep working on the project and asked Prof. Fu how lab sections will work going forward, and got feedback on our concepts
