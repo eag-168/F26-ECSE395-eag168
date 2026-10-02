@@ -1,0 +1,2 @@
+- 9/28 I made the concept selection and gantt chart document
+- 9/28 We each added the components of the document, Joe doing slides, Ayan doing Mr. Fong's feedback, I did our final concept selection and description, and Daniel did the Gantt chart.
