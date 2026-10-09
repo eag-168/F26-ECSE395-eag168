@@ -1,1 +1,2 @@
 - 10/5 We edited the System Architecture and Prototype plan, I did the physical system architecture and final check through before submitting the assignment.
+- 10/9 Began working on our low fidelity prototype, and discussed feeback we received on our assignments. Prof. Fu never met with us for our checkin, so we will need to 
