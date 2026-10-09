@@ -1,0 +1,1 @@
+- 10/5 We edited the System Architecture and Prototype plan, I did the physical system architecture and final check through before submitting the assignment.
