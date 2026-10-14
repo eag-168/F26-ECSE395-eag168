@@ -1,0 +1,2 @@
+- 10/12 We worked on our first prototype, a drawing of the whole system. Ayan drew the diagram, but it was a group collaboration: we all talked about the structure of the device and how the subsystems will be laid out.
+- 10/12 I created the document for the verification and validation plans, then later on we all added to it. I wrote out the verification protocol for the detection subsystem, and created the verification matrix. 
