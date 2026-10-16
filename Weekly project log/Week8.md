@@ -1,2 +1,5 @@
 - 10/12 We worked on our first prototype, a drawing of the whole system. Ayan drew the diagram, but it was a group collaboration: we all talked about the structure of the device and how the subsystems will be laid out.
 - 10/12 I created the document for the verification and validation plans, then later on we all added to it. I wrote out the verification protocol for the detection subsystem, and created the verification matrix. 
+- 10/14 We worked on prototyping in class, creating our cardboard prototype 2 and beginning to work on our electronics after receiving the ESP32-S3 and camera module
+- 10/15 I worked more on the electronics independently, getting the PIR detection working
+- 10/16 I began to interface the camera into the ESP32 over fall break
