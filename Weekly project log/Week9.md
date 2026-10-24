@@ -1,0 +1,4 @@
+- 10/20 I did some research into how we can create the image processing system and integrate it on the ESP32S3
+- 10/21 I continued to look into the image processor and connecting the camera to the ESP32S3
+- 10/22 We met as a group to get a feel for the presentation and do a first runthrough/rehearsal
+- 10/23 We worked in lab to integrate the detection and deterrence systems, discovering that the the PIR sensor cannot work off of battery power as it cannot take the 5V the battery is providing it

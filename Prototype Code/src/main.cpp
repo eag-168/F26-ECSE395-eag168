@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
-constexpr uint8_t PIR_PIN = 5; // feather pin 14
-constexpr uint8_t BUZZER_PIN = 10; // feather pin 27
+constexpr int PIR_PIN = 5; // feather pin 14
+constexpr int BUZZER_PIN = 10; // feather pin 27
 constexpr unsigned int BUZZER_FREQUENCY_HZ = 2000; // pitch of buzzer in Hz
 constexpr unsigned long PIR_WARMUP_MS = 60000; // 60000ms = 60s
 
