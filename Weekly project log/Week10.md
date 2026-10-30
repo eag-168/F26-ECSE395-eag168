@@ -1,0 +1,4 @@
+- 10/26 We finished up our midterm slide deck, then presented it to the class
+- 10/26 I created the document for the Prototype 1,2, and 3 assignment, then we worked together to finish it up and submit it
+- 10/28 We worked to create our neural network, then began training the model to recognize deer
+- 10/29 The first model training round was finished, Daniel used the camera to create an object detection system as a potential substitute 
