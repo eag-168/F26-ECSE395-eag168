@@ -14,3 +14,4 @@ This repository is all of the weekly project logs and the purpose of this reposi
 | Week 8  | Prototyped and created the verification/validation plan                                       |
 | Week 9  | Prototyped, began to integrate the detection and deterrance subsystems                        |
 | Week 10 | Prototype 1,2, and 3 document, midterm presentation, image processing                         |
+| Week 11 | MVP testing and document, verification and validation                                         |

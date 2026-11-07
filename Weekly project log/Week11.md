@@ -1,0 +1,4 @@
+- 11/1 We met as a group to test the MVP's object detection by posing as deer, and recorded videos of the system triggering/not triggering when it is supposed to
+- 11/2 I created the MVP document, then we worked on it as a group and submitted it
+- 11/4 We did some testing with the image processing system, continuing to verify that it is not going to be a viable solution
+- 11/6 We met again in class and had our weekly check in, and received a new speaker to replace our buzzer and hopefully reach our desired frequency/volume
